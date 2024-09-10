@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align = "center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nerko+One&size=40&duration=1000&pause=800&color=F70277&width=435&lines=mahou+mitai+na;yume+mitai+na" alt="Typing SVG" /></a>
+</div>
